@@ -1,0 +1,27 @@
+{
+  "name": "md2discord",
+  "version": "1.0.0",
+  "description": "A custom Discord Markdown parser",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmatfauzy/md2discord.git"
+  },
+  "keywords": [
+    "discord",
+    "markdown",
+    "parser"
+  ],
+  "author": "ahmatfauzy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmatfauzy/md2discord/issues"
+  },
+  "homepage": "https://github.com/ahmatfauzy/md2discord#readme",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
